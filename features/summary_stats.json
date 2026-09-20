@@ -1,0 +1,65 @@
+{
+  "eng": {
+    "n_train": 3309,
+    "n_dev": 472,
+    "n_test": 948,
+    "n_classes": 6,
+    "classes": [
+      "business",
+      "entertainment",
+      "health",
+      "politics",
+      "sports",
+      "technology"
+    ],
+    "vocab_size": 176037,
+    "train_class_counts": {
+      "sports": 700,
+      "politics": 574,
+      "business": 559,
+      "entertainment": 525,
+      "health": 522,
+      "technology": 429
+    }
+  },
+  "xho": {
+    "n_train": 1032,
+    "n_dev": 147,
+    "n_test": 297,
+    "n_classes": 5,
+    "classes": [
+      "business",
+      "entertainment",
+      "health",
+      "politics",
+      "sports"
+    ],
+    "vocab_size": 34012,
+    "train_class_counts": {
+      "entertainment": 350,
+      "sports": 347,
+      "politics": 215,
+      "health": 70,
+      "business": 50
+    }
+  },
+  "sna": {
+    "n_train": 1288,
+    "n_dev": 185,
+    "n_test": 369,
+    "n_classes": 4,
+    "classes": [
+      "business",
+      "health",
+      "politics",
+      "sports"
+    ],
+    "vocab_size": 44893,
+    "train_class_counts": {
+      "business": 350,
+      "politics": 350,
+      "health": 297,
+      "sports": 291
+    }
+  }
+}
