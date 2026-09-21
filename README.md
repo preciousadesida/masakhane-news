@@ -47,6 +47,10 @@ Contains the results from the hyperparameter search, including the different par
 
 Contains a summary of the selected hyperparameter configuration for each language and feature extraction method.
 
+- loss_curves.png
+
+Shows the training and development loss curves for the best English, isiXhosa and chiShona configurations. 
+
 - README.md
 
 This file contains the setup instructions and descriptions of the submitted files.
